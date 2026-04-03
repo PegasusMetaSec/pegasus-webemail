@@ -6,6 +6,7 @@
 <div align="center">
 <a href="https://trendshift.io/repositories/14638" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14638" alt="HKUDS%2FAI-Researcher | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 [![Tools](https://img.shields.io/badge/Status-Educational%20Only-orange)]()
